@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.env
+.venv
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# Streamlit / system files
+.streamlit/
+
+# credentials & secrets
+service_account.json
+*.pem
+*.key
+
+# mac
+.DS_Store
+
+# logs
+logs/
+*.log
