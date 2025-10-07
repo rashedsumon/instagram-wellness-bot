@@ -1,0 +1,12 @@
+streamlit
+requests
+gspread
+google-auth
+oauth2client
+twilio
+APScheduler
+pandas
+python-dateutil
+PyYAML
+openai
+gunicorn
